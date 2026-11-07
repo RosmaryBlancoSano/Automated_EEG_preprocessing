@@ -1,0 +1,27 @@
+Automated_EEG_preprocessing
+Copyright (c) 2026 Rosmary Blanco, released under the MIT License (see LICENSE).
+
+The repository contains code written by other authors. Each of these files keeps its own licence, which applies to that file only.
+
+07_metrics/calcSNR_PSNR.m
+    Part of HAPPE, Copyright 2018, 2021 Alexa Monachino, Kelsie Lopez, Laurel Gabard-Durnam.
+    GNU General Public License v3.0 or later (the notice is in the file).
+
+09_plots/eegplot_superimpose.m
+    Adapted from pop_eegplot.m of EEGLAB, Copyright (C) 2001 Arnaud Delorme, Salk Institute.
+    BSD 2-Clause licence (the notice is in the file).
+
+09_plots/multitaper_spectrogram.m
+    Copyright 2021 Michael J. Prerau Laboratory (http://www.sleepEEG.org).
+    Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (the notice is in the file).
+    This licence does not allow commercial use of this file.
+
+04_denoising_methods/asr_calibrate.m, 04_denoising_methods/asr_process.m
+    Artifact Subspace Reconstruction of clean_rawdata / BCILAB, Copyright (C) 2013 The Regents of the University of California.
+    The UC Copyright Notice in each file must be kept when the file is redistributed.
+
+01_quality_check/Functions.py
+    NoisyChannels adapted from PyPREP (MIT licence).
+
+01_quality_check/ReadEDF32/
+    EDF reader adapted from MNE-Python 0.22.1 (BSD 3-Clause licence).

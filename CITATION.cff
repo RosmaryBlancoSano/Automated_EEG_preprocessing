@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper."
+title: "Automated_EEG_preprocessing: comparison of artefact removal methods for low-density EEG"
+type: software
+license: MIT
+authors:
+  - family-names: Blanco
+    given-names: Rosmary
+    affiliation: "Sano Centre for Computational Medicine"
+repository-code: "https://github.com/RosmaryBlancoSano/Automated_EEG_preprocessing"
+preferred-citation:
+  type: article
+  title: "Comparative Evaluation of Artefact Removal Methods for Low-Density EEG in Biomedical Applications"
+  authors:
+    - family-names: Blanco
+      given-names: Rosmary
+    - family-names: Gherardini
+      given-names: Luca
+    - family-names: Argasiński
+      given-names: Jan K.
+    - family-names: van Stigt
+      given-names: Maritta N.
+    - family-names: Groenendijk
+      given-names: Eva A.
+    - family-names: Sharifi
+      given-names: Sarvi
+    - family-names: Coutinho
+      given-names: Jonathan M.
+    - family-names: Lisowska
+      given-names: Aneta
+    - family-names: Marquering
+      given-names: Henk A.
+  journal: "IEEE Journal of Biomedical and Health Informatics"
+  status: submitted
+  year: 2026

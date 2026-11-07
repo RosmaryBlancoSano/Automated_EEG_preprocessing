@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+mne
+scipy
+eeglabio   # export of the EEGLAB .set files
+pyprep   # a release whose pyprep.utils still has _mad (used by Functions.py)
